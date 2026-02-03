@@ -1,6 +1,6 @@
 module github.com/bincyber/go-sqlcrypter
 
-go 1.19
+go 1.24.0
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.17.1
@@ -11,7 +11,7 @@ require (
 	github.com/hashicorp/vault/api v1.6.0
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.1
-	gorm.io/gorm v1.23.6
+	gorm.io/gorm v1.31.1
 )
 
 require (
@@ -53,7 +53,7 @@ require (
 	github.com/hashicorp/vault/sdk v0.5.0 // indirect
 	github.com/hashicorp/yamux v0.0.0-20180604194846-3520598351bb // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
-	github.com/jinzhu/now v1.1.4 // indirect
+	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/mattn/go-isatty v0.0.12 // indirect
 	github.com/mitchellh/copystructure v1.0.0 // indirect
@@ -69,7 +69,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97 // indirect
 	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110 // indirect
 	golang.org/x/sys v0.0.0-20221010170243-090e33056c14 // indirect
-	golang.org/x/text v0.3.3 // indirect
+	golang.org/x/text v0.33.0 // indirect
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1 // indirect
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
 	google.golang.org/grpc v1.41.0 // indirect
